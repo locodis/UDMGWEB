@@ -4,4 +4,5 @@
 
 <h2>html and css </h2>
 
-! []  (/chrome-capture.gif)
+! [til] (chrome-capture.gif)
+
