@@ -2,4 +2,4 @@
 
 <h1> gif ekleeee</h1>
 
-![] (chrome-capture.gif)
+! [] (chrome-capture)
