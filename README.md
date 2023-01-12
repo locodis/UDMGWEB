@@ -8,6 +8,6 @@
 
 ! [banner ekleyecem] (udemigweb/img/bg2.jpg)
 
-[ismail guler][def]
+[ismail guler][]
 
-[def]: https://github.com/logismail
+[]: https://github.com/logismail
