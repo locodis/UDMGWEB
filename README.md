@@ -6,4 +6,4 @@
 
 `banner eklee`
 
-! [banner ekleyecem] (bg2.jpg)
+! [banner ekleyecem] (udemigweb/img/bg2.jpg)
