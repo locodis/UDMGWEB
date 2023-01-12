@@ -1,3 +1,3 @@
 # 2023january_Udemig-Web
 
-! [] (chrome-capture)
+! [] (chrome-capture.gif)
