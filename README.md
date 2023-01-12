@@ -7,3 +7,7 @@
 `banner eklee`
 
 ! [banner ekleyecem] (udemigweb/img/bg2.jpg)
+
+[ismail guler][def]
+
+[def]: https://github.com/logismail
