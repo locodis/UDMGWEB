@@ -1,13 +1,6 @@
 # 2023january
 
-<h1> gif ekleeee</h1>
 
-![chrome-capture](https://user-images.githubusercontent.com/121372281/212132713-9a809346-3548-427d-aa83-46d02b38b962.gif)
-
-`banner eklee`
-
-! [banner ekleyecem] (udemigweb/img/bg2.jpg)
-
-[ismail guler][]
+![UDMG_WEB](https://user-images.githubusercontent.com/121372281/212499474-af04a512-4d58-4ce3-bad7-ebfb7e6699a5.gif)
 
 []: https://github.com/logismail
